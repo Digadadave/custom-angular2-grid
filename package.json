@@ -1,6 +1,6 @@
 {
   "name": "angular2-grid",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A grid-based drag/drop/resize directive plugin for Angular 2",
   "module": "main.js",
   "main": "bundles/NgGrid.umd.min.js",
@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/BTMorton/angular2-grid",
   "peerDependencies": {
-    "@angular/core": "4.0.2",
+    "@angular/core": "4.1.3",
     "reflect-metadata": "^0.1.8",
     "rxjs": "^5.0.1",
     "zone.js": "^0.8.4"
